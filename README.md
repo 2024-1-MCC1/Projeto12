@@ -27,6 +27,8 @@ Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em j
 
 ## 🛠 Instalação
 
+## 💻 Configuração para Desenvolvimento
+
 ## 🗃 Histórico de lançamentos
 
 ## 📋 Licença/License
