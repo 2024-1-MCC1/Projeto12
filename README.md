@@ -20,9 +20,8 @@
 </p>
 
 Lost Ocean é um jogo que busca emergir e concientizar as pessoas sobre a questão sobre a poluição nos mares, baseado no Objetivo de Desenvolvimento Sustentável (ODS) da ONU.  
-<br><br>
+<br>
 Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em jogos como Temple Run e Subway Surfers.
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
