@@ -8,4 +8,4 @@
 
 ## Grupo 12 Ocean
 
-## Integrantes: <a href="https://github.com/ViniSantos09">Vinicius dos Santos Ribeiro</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes:<a href="https://github.com/1546455">Beatriz Mai</a>, <a href="https://github.com/1500341276">Felipe Lin</a>, <a href="https://github.com/StephanyAliyah">Stephany Aliyah</a>, <a href="https://github.com/ViniSantos09">Vinicius dos Santos Ribeiro</a>
