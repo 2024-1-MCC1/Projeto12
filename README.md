@@ -8,7 +8,7 @@
 
 ## Grupo 12 Ocean
 
-## Integrantes:<a href="https://github.com/1546455">Beatriz Mai</a>, <a href="https://github.com/1500341276">Felipe Lin</a>, <a href="https://github.com/StephanyAliyah">Stephany Aliyah</a>, <a href="https://github.com/ViniSantos09">Vinicius dos Santos</a>
+## Integrantes:<a href="https://github.com/1546455">Beatriz Mai</a>; <a href="https://github.com/1500341276">Felipe Lin</a>, <a href="https://github.com/StephanyAliyah">Stephany Aliyah</a>, <a href="https://github.com/ViniSantos09">Vinicius dos Santos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">VictorRosetti</a>
 
