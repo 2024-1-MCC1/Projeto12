@@ -24,12 +24,49 @@ Lost Ocean é um jogo que busca emergir e concientizar as pessoas sobre a quest�
 Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em jogos como Temple Run e Subway Surfers.
 
 ## 🛠 Estrutura de pastas
+...
 
 ## 🛠 Instalação
 
+<b>Windows:</b>
+
+Não há instalação! Apenas executável!
+Encontre o LostOcean.exe na pasta executáveis e execute-o como qualquer outro programa.
+
 ## 💻 Configuração para Desenvolvimento
 
+Para abrir este projeto você necessita das seguintes ferramentas:
+
+Ferramenta de desenvolvimento da Unity: <a href="https://store.unity.com/download">UNITY</a>
+
 ## 🗃 Histórico de lançamentos
+
+* 1.0 - 22/05/2024
+    * FINALIZADO: Jogo Oficial
+    * * ADD: Música de fundo
+* 0.7.0 - 21/05/2024
+    * FINALIZADO: Estrutura base do jogo
+    * MUDANÇA: Design da tela de Game Over
+* 0.6.0 - 20/05/2024
+    * CONSERTO: Mal funcionamento do jogo com o Spwan
+* 0.5.0 - 19/05/2024
+    * FINALIZADO: Jogo base
+    * Conclusão do spwan de plataformas.
+* 0.4.0 - 17/05/2024
+    * Integração do cenário com as demais partes em um mesmo projeto
+* 0.2.0 - 16/04/2024
+    * Criação da Tela de menu
+    * Conclusão da Coletar de lixo, Contador de lixo e Medidor de distância.
+    * Conclusão da Colisão do Player com os obstáculos, Termino do jogo e tela de Game Over.
+    * Conclusão do desenvolvimento do cenário do jogo
+* 0.1.5 - 15/05/2024
+    * CONSERTO: Conserto da função `OnCollision()`
+* 0.1.0 - 13/05/2024
+    * Conclusão da Mecânica do player principal.
+* 0.0.9 - 10/05/2024
+    * MUDANÇA: Novo Backlog e ideias do jogo
+    * Desistência do anitgo modelo de jogo
+
 
 ## 📋 Licença/License
 
