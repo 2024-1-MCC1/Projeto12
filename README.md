@@ -36,7 +36,10 @@ Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em j
 
 ## 🎓 Referências
 
-1. <https://github.com/ViniSantos09/Template_PI>
+1. Repositório base do Github: <https://github.com/ViniSantos09/Template_PI>
+2. Link dos Barris: <https://assetstore.unity.com/packages/3d/props/industrial/pbr-barrels-83508>
+3. Link do Barco: <https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866>
+4. Link do Tubarão: <https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232>
 
 
 
