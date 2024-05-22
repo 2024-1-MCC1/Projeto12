@@ -19,7 +19,9 @@
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
-Lost Ocean é um jogo que busca emergir e concientizar as pessoas sobre a questão sobre a poluição nos mares, baseado no Objetivo de Desenvolvimento Sustentável (ODS) da ONU.  
+Lost Ocean é um jogo que busca emergir e concientizar as pessoas sobre a Poluição nos mares, fazendo elas emergiram em um ambiente completamente degradado pela falta de cuidade e concientização do ser humano. 
+<br>
+Baseado no Objetivo de Desenvolvimento Sustentável(ODS) número 14: Conservação e uso sustentável dos oceanos.  
 <br>
 Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em jogos como Temple Run e Subway Surfers.
 
