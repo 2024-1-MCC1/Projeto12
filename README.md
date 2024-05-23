@@ -42,10 +42,10 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 Ferramenta de desenvolvimento da Unity: <a href="https://store.unity.com/download">UNITY</a>
 
 ## 🗃 Histórico de lançamentos
-
-* 1.0 - 22/05/2024
-    * FINALIZADO: Jogo Oficial
-    * * ADD: Música de fundo
+* 0.9.0 - 22/05/2024
+   * ADD: Botão de Restart e Main menu
+* 0.8.0 - 22/05/2024
+    * ADD: Música de fundo
 * 0.7.0 - 21/05/2024
     * FINALIZADO: Estrutura base do jogo
     * MUDANÇA: Design da tela de Game Over
