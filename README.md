@@ -10,7 +10,7 @@
 
 ## Integrantes:<a href="https://github.com/1546455">Beatriz Mai</a>, <a href="https://github.com/1500341276">Felipe Lin</a>, <a href="https://github.com/StephanyAliyah">Stephany Aliyah</a>, <a href="https://github.com/ViniSantos09">Vinicius dos Santos</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">VictorRosetti</a>, Fabiano Onça
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Victor Bruno Alexander Rosetti de Queiroz </a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente </a> e <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Alves Onça </a>
 
 ## Descrição
 
@@ -77,12 +77,12 @@ Ferramenta de desenvolvimento da Unity: <a href="https://store.unity.com/downloa
 ## 🎓 Referências
 
 1. Repositório base do Github: <https://github.com/ViniSantos09/Template_PI>
-2. Playlist de videos usados como base para a construção do Jogo: <https://youtube.com/playlist?list=PLW-9djkTMdfUIntNzMSG2UNzYjpfWCV2y&si=ILx_gSYyN86zW_hE>
-3. Link dos Barris: <https://assetstore.unity.com/packages/3d/props/industrial/pbr-barrels-83508>
-4. Link do Barco: <https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866>
-5. Link do Tubarão: <https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232>
-
-
-
-
+2. Menu:  https://www.youtube.com/watch?v=yIaAE9bLxXI&t=302s
+3. AudioSource:  https://www.youtube.com/watch?v=orMnMpWx3Ns 
+4. Playlist de videos usados como base para a construção do Jogo: <https://youtube.com/playlist?list=PLW-9djkTMdfUIntNzMSG2UNzYjpfWCV2y&si=ILx_gSYyN86zW_hE>
+5. Link dos Barris: <https://assetstore.unity.com/packages/3d/props/industrial/pbr-barrels-83508>
+6. Link do Barco: <https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866>
+7. Link do Tubarão: <https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232>
+8. Link do Mar: <https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563>
+9. Música https://freesound.org/people/Mrthenoronha/sounds/514800/ por <a href = "https://freesound.org/people/Mrthenoronha/"> Mrthenonha </a> com Licença Attribution 4.0 International
 
