@@ -25,7 +25,15 @@ Baseado no Objetivo de Desenvolvimento Sustentável(ODS) número 14: Conservaç�
 Nosso jogo foi feito no estilo Endless Runner ou Infinite Runner, inspirado em jogos como Temple Run e Subway Surfers.
 
 ## 🛠 Estrutura de pastas
-...
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|Documentação.docx<br>
+|-->imagens<br>
+|-->src<br>
+  &emsp;|-->executáveis<br>
+  &emsp;|-->Arquivo do Jogo<br>
+|readme.md<br>
 
 ## 🛠 Instalação
 
