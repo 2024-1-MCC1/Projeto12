@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2023/01/08/15/11/wave-7705527_1280.png" alt="NOME DO JOGO" border="0">
+<img src="file:///C:/Users/24026434/Pictures/TemplateLostOcean.png" alt="NOME DO JOGO" border="0">
   Imagem de <a href="https://pixabay.com/pt/users/prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7705527">Prawny</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7705527">Pixabay</a>
 </p>
 
