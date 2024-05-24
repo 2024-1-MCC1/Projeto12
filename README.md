@@ -41,6 +41,9 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 Ferramenta de desenvolvimento da Unity: <a href="https://store.unity.com/download">UNITY</a>
 
 ## 🗃 Histórico de lançamentos
+* 1.0 - 24/05/2024
+   * FINALIZADO: Jogo oficial
+   * CONSERTO: Tela de Menu e Collision com objetos
 * 0.9.0 - 22/05/2024
    * ADD: Botão de Restart e Main menu
 * 0.8.0 - 22/05/2024
