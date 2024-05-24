@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1vdPD702RIqXdhrbsF611jn2yuRflLlvk/view?usp=sharing" alt="NOME DO JOGO" border="0">
+<img src="https://raw.githubusercontent.com/2024-1-MCC1/Projeto12/main/Imagens/TemplateLostOcean.png" alt="NOME DO JOGO" border="0">
   Imagem de <a href="https://pixabay.com/pt/users/prawny-162579/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7705527">Prawny</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7705527">Pixabay</a>
 </p>
 
