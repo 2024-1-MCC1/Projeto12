@@ -84,5 +84,6 @@ Ferramenta de desenvolvimento da Unity: <a href="https://store.unity.com/downloa
 6. Link do Barco: <https://assetstore.unity.com/packages/3d/vehicles/sea/boats-polypack-189866>
 7. Link do Tubarão: <https://assetstore.unity.com/packages/3d/characters/animals/fish/fish-polypack-202232>
 8. Link do Mar: <https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563>
-9. Música https://freesound.org/people/Mrthenoronha/sounds/514800/ por <a href = "https://freesound.org/people/Mrthenoronha/"> Mrthenonha </a> com Licença Attribution 4.0 International
+9. Montanhas: <https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-cliff-pack-67289>
+10. Música https://freesound.org/people/Mrthenoronha/sounds/514800/ por <a href = "https://freesound.org/people/Mrthenoronha/"> Mrthenonha </a> com Licença Attribution 4.0 International
 
